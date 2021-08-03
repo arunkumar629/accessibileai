@@ -1,0 +1,9 @@
+To clone the repository (one time process)
+git clone https://github.com/arunkumar629/accessibileai
+
+To enter the folder in command prompt
+cd accessibleai
+
+To pull updated code
+
+git pull https://github.com/arunkumar629/accessibileai
